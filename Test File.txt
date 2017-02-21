@@ -4,4 +4,6 @@ This is the second text
 
 This is the Third Text
 
+This is a branch edit
+
 This is a main edit
